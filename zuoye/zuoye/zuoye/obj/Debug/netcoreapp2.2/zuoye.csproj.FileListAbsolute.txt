@@ -1,0 +1,11 @@
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/bin/Debug/netcoreapp2.2/zuoye.deps.json
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/bin/Debug/netcoreapp2.2/zuoye.runtimeconfig.json
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/bin/Debug/netcoreapp2.2/zuoye.runtimeconfig.dev.json
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/bin/Debug/netcoreapp2.2/zuoye.dll
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/bin/Debug/netcoreapp2.2/zuoye.pdb
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.csprojAssemblyReference.cache
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.csproj.CoreCompileInputs.cache
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.AssemblyInfoInputs.cache
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.AssemblyInfo.cs
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.dll
+/Users/Charlotte/Desktop/zuoye/zuoye/zuoye/obj/Debug/netcoreapp2.2/zuoye.pdb
